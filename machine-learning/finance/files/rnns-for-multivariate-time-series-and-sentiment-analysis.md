@@ -1,0 +1,43 @@
+# RNNs For Multivariate Time Series And Sentiment Analysis
+- How recurrent neural nets work
+- Unfolding a computational graph with cycles
+- Backpropagation through time
+- Alternative RNN architectures
+- Output recurrence and teacher forcing
+- Bidirectional RNNs
+- Encoder-decoder architectures, attention, and transformers
+- How to design deep RNNs
+- The challenge of learning long-range dependencies
+- Long short-term memory – learning how much to forget
+- Gated recurrent units
+- RNNs for time series with TensorFlow 2
+- Univariate regression – predicting the S&P 500
+- How to get time series data into shape for an RNN
+- How to define a two-layer RNN with a single LSTM layer
+- Training and evaluating the model
+- Re-scaling the predictions
+- Stacked LSTM – predicting price moves and returns
+- Preparing the data – how to create weekly stock returns
+- How to create multiple inputs in RNN format
+- How to define the architecture using Keras' Functional API
+- Predicting returns instead of directional price moves
+- Multivariate time-series regression for macro data
+- Loading sentiment and industrial production data
+- Making the data stationary and adjusting the scale
+- Creating multivariate RNN inputs
+- Defining and training the model
+- RNNs for text data
+- LSTM with embeddings for sentiment classification
+- Loading the IMDB movie review data
+- Defining embedding and the RNN architecture
+- Sentiment analysis with pretrained word vectors
+- Preprocessing the text data
+- Loading the pretrained GloVe embeddings
+- Defining the architecture with frozen weights
+- Predicting returns from SEC filing embeddings
+- Source stock price data using yfinance
+- Preprocessing SEC filing data
+- Preparing data for the RNN model
+- Building, training, and evaluating the RNN model
+- Lessons learned and next steps
+- Summary

@@ -1,0 +1,58 @@
+# Deep Learning For Trading
+- Deep learning – what's new and why it matters
+- Hierarchical features tame high-dimensional data
+- DL as representation learning
+- How DL extracts hierarchical features from data
+- Good and bad news – the universal approximation theorem
+- How DL relates to ML and AI
+- Designing an NN
+- A simple feedforward neural network architecture
+- Key design choices
+- Hidden units and activation functions
+- Output units and cost functions
+- How to regularize deep NNs
+- Parameter norm penalties
+- Early stopping
+- Dropout
+- Training faster – optimizations for deep learning
+- Stochastic gradient descent
+- Momentum
+- Adaptive learning rates
+- Summary – how to tune key hyperparameters
+- A neural network from scratch in Python
+- The input layer
+- The hidden layer
+- The output layer
+- Forward propagation
+- The cross-entropy cost function
+- How to implement backprop using Python
+- How to compute the gradient
+- The loss function gradient
+- The output layer gradients
+- The hidden layer gradients
+- Putting it all together
+- Training the network
+- Popular deep learning libraries
+- Leveraging GPU acceleration
+- How to use TensorFlow 2
+- How to use TensorBoard
+- How to use PyTorch 1.4
+- How to create a PyTorch DataLoader
+- How to define the neural network architecture
+- How to train the model
+- How to evaluate the model predictions
+- Alternative options
+- Apache MXNet
+- Microsoft Cognitive Toolkit (CNTK)
+- Fastai
+- Optimizing an NN for a long-short strategy
+- Engineering features to predict daily stock returns
+- Defining an NN architecture framework
+- Cross-validating design options to tune the NN
+- Evaluating the predictive performance
+- Backtesting a strategy based on ensembled signals
+- Ensembling predictions to produce tradeable signals
+- Evaluating signal quality using Alphalens
+- Backtesting the strategy using Zipline
+- How to further improve the results
+- Summary

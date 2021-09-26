@@ -1,0 +1,39 @@
+# Market And Fundamental Data – Sources And Techniques
+- Market data reflects its environment
+- Market microstructure – the nuts and bolts
+- How to trade – different types of orders
+- Where to trade – from exchanges to dark pools
+- Working with high-frequency data
+- How to work with Nasdaq order book data
+- Communicating trades with the FIX protocol
+- The Nasdaq TotalView-ITCH data feed
+- How to parse binary order messages
+- Summarizing the trading activity for all 8,500 stocks
+- How to reconstruct all trades and the order book
+- From ticks to bars – how to regularize market data
+- The raw material – tick bars
+- Plain-vanilla denoising – time bars
+- Accounting for order fragmentation – volume bars
+- Accounting for price changes – dollar bars
+- AlgoSeek minute bars – equity quote and trade data
+- From the consolidated feed to minute bars
+- Quote and trade data fields
+- How to process AlgoSeek intraday data
+- API access to market data
+- Remote data access using pandas
+- Reading HTML tables
+- pandas-datareader for market data
+- yfinance – scraping data from Yahoo! Finance
+- How to download end-of-day and intraday prices
+- How to download the option chain and prices
+- Quantopian
+- Zipline
+- Quandl
+- Other market data providers
+- How to work with fundamental data
+- Financial statement data
+- Automated processing – XBRL
+- Building a fundamental data time series
+- Other fundamental data sources
+- pandas-datareader – macro and industry data
+- Efficient data storage with pandas

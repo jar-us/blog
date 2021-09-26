@@ -1,0 +1,46 @@
+# Random Forests – A Long-Short Strategy For Japanese Stocks
+- Decision trees – learning rules from data
+- How trees learn and apply decision rules
+- Decision trees in practice
+- The data – monthly stock returns and features
+- Building a regression tree with time-series data
+- Building a classification tree
+- Visualizing a decision tree
+- Evaluating decision tree predictions
+- Overfitting and regularization
+- How to regularize a decision tree
+- Decision tree pruning
+- Hyperparameter tuning
+- Using GridsearchCV with a custom metric
+- How to inspect the tree structure
+- Comparing regression and classification performance
+- Diagnosing training set size with learning curves
+- Gaining insight from feature importance
+- Strengths and weaknesses of decision trees
+- Random forests – making trees more reliable
+- Why ensemble models perform better
+- Bootstrap aggregation
+- How bagging lowers model variance
+- Bagged decision trees
+- How to build a random forest
+- How to train and tune a random forest
+- Feature importance for random forests
+- Out-of-bag testing
+- Pros and cons of random forests
+- Long-short signals for Japanese stocks
+- The data – Japanese equities
+- The features – lagged returns and technical indicators
+- The outcomes – forward returns for different horizons
+- The ML4T workflow with LightGBM
+- From universe selection to hyperparameter tuning
+- Sampling tickers to speed up cross-validation
+- Defining lookback, lookahead, and roll-forward periods
+- Hyperparameter tuning with LightGBM
+- Cross-validating signals over various horizons
+- Analyzing cross-validation performance
+- Ensembling forecasts – signal analysis using Alphalens
+- The strategy – backtest with Zipline
+- Ingesting Japanese Equities into Zipline
+- Running an in- and out-of-sample strategy backtest
+- The results – evaluation with pyfolio
+- Summary

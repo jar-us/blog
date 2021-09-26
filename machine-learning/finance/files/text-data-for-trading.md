@@ -1,0 +1,38 @@
+# Text Data For Trading – Sentiment Analysis
+- ML with text data – from language to features
+- Key challenges of working with text data
+- The NLP workflow
+- Parsing and tokenizing text data – selecting the vocabulary
+- Linguistic annotation – relationships among tokens
+- Semantic annotation – from entities to knowledge graphs
+- Labeling – assigning outcomes for predictive modeling
+- Applications
+- From text to tokens – the NLP pipeline
+- NLP pipeline with spaCy and textacy
+- Parsing, tokenizing, and annotating a sentence
+- Batch-processing documents
+- Sentence boundary detection
+- Named entity recognition
+- N-grams
+- spaCy's streaming API
+- Multi-language NLP
+- NLP with TextBlob
+- Stemming
+- Sentiment polarity and subjectivity
+- Counting tokens – the document-term matrix
+- The bag-of-words model
+- Creating the document-term matrix
+- Measuring the similarity of documents
+- Document-term matrix with scikit-learn
+- Using CountVectorizer
+- TfidfTransformer and TfidfVectorizer
+- Key lessons instead of lessons learned
+- NLP for trading
+- The naive Bayes classifier
+- Bayes' theorem refresher
+- The conditional independence assumption
+- Classifying news articles
+- Sentiment analysis with Twitter and Yelp data
+- Binary sentiment classification with Twitter data
+- Multiclass sentiment analysis with Yelp business reviews
+- Summary

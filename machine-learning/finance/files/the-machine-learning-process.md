@@ -1,0 +1,38 @@
+# The Machine Learning Process
+- How machine learning from data works
+- The challenge – matching the algorithm to the task
+- Supervised learning – teaching by example
+- Unsupervised learning – uncovering useful patterns
+- Use cases – from risk management to text processing
+- Cluster algorithms – seeking similar observations
+- Dimensionality reduction – compressing information
+- Reinforcement learning – learning by trial and error
+- The machine learning workflow
+- Basic walkthrough – k-nearest neighbors
+- Framing the problem – from goals to metrics
+- Prediction versus inference
+- Regression – popular loss functions and error metrics
+- Classification – making sense of the confusion matrix
+- Collecting and preparing the data
+- Exploring, extracting, and engineering features
+- Using information theory to evaluate features
+- Selecting an ML algorithm
+- Design and tune the model
+- The bias-variance trade-off
+- Underfitting versus overfitting – a visual example
+- How to manage the bias-variance trade-off
+- Learning curves
+- How to select a model using cross-validation
+- How to implement cross-validation in Python
+- KFold iterator
+- Leave-one-out CV
+- Leave-P-Out CV
+- ShuffleSplit
+- Challenges with cross-validation in finance
+- Time series cross-validation with scikit-learn
+- Purging, embargoing, and combinatorial CV
+- Parameter tuning with scikit-learn and Yellowbrick
+- Validation curves – plotting the impact of hyperparameters
+- Learning curves – diagnosing the bias-variance trade-off
+- Parameter tuning using GridSearchCV and pipeline
+- Summary

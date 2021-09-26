@@ -1,0 +1,24 @@
+# Conclusions And Next Steps
+- Key takeaways and lessons learned
+- Data is the single most important ingredient
+- The new oil? Quality control for raw and intermediate data
+- Data integration – the whole exceeds the sum of its parts
+- Domain expertise – telling the signal from the noise
+- ML is a toolkit for solving problems with data
+- Model diagnostics help speed up optimization
+- Making do without a free lunch
+- Managing the bias-variance trade-off
+- Defining targeted model objectives
+- The optimization verification test
+- Beware of backtest overfitting
+- How to gain insights from black-box models
+- ML for trading in practice
+- Data management technologies
+- Database systems
+- Big data technologies – from Hadoop to Spark
+- ML tools
+- Online trading platforms
+- Quantopian
+- QuantConnect
+- QuantRocket
+- Conclusion

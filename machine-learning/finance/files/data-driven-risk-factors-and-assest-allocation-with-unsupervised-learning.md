@@ -1,0 +1,32 @@
+# Data-Driven Risk Factors And Asset Allocation With Unsupervised Learning
+- Dimensionality reduction
+- The curse of dimensionality
+- Linear dimensionality reduction
+- Principal component analysis
+- Independent component analysis
+- Manifold learning – nonlinear dimensionality reduction
+- t-distributed Stochastic Neighbor Embedding
+- Uniform Manifold Approximation and Projection
+- PCA for trading
+- Data-driven risk factors
+- Preparing the data – top 350 US stocks
+- Running PCA to identify the key return drivers
+- Eigenportfolios
+- Clustering
+- k-means clustering
+- Assigning observations to clusters
+- Evaluating cluster quality
+- Hierarchical clustering
+- Different strategies and dissimilarity measures
+- Visualization – dendrograms
+- Density-based clustering
+- DBSCAN
+- Hierarchical DBSCAN
+- Gaussian mixture models
+- Hierarchical clustering for optimal portfolios
+- How hierarchical risk parity works
+- Backtesting HRP using an ML trading strategy
+- Ensembling the gradient boosting model predictions
+- Using PyPortfolioOpt to compute HRP weights
+- Performance comparison with pyfolio
+- Summary

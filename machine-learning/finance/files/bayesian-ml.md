@@ -1,0 +1,28 @@
+# Bayesian ML – Dynamic Sharpe Ratios And Pairs Trading
+- How Bayesian machine learning works
+- How to update assumptions from empirical evidence
+- Exact inference – maximum a posteriori estimation
+- How to select priors
+- How to keep inference simple – conjugate priors
+- Dynamic probability estimates of asset price moves
+- Deterministic and stochastic approximate inference
+- Markov chain MonteCarlo sampling
+- Variational inference and automatic differentiation
+- Probabilistic programming with PyMC3
+- Bayesian machine learning with Theano
+- The PyMC3 workflow – predicting a recession
+- The data – leading recession indicators
+- Model definition – Bayesian logistic regression
+- Exact MAP inference
+- Approximate inference – MCMC
+- Approximate inference – variational Bayes
+- Model diagnostics
+- How to generate predictions
+- Summary and key takeaways
+- Bayesian ML for trading
+- Bayesian Sharpe ratio for performance comparison
+- Defining a custom probability model
+- Comparing the performance of two return series
+- Bayesian rolling regression for pairs trading
+- Stochastic volatility models
+- Summary

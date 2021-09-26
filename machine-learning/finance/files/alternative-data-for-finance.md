@@ -1,0 +1,36 @@
+# Alternative Data For Finance – Categories And Use Cases
+- The alternative data revolution
+- Sources of alternative data
+- Individuals
+- Business processes
+- Sensors
+- Satellites
+- Geolocation data
+- Criteria for evaluating alternative data
+- Quality of the signal content
+- Asset classes
+- Investment style
+- Risk premiums
+- Alpha content and quality
+- Quality of the data
+- Legal and reputational risks
+- Exclusivity
+- Time horizon
+- Frequency
+- Reliability
+- Technical aspects
+- Latency
+- Format
+- The market for alternative data
+- Data providers and use cases
+- Social sentiment data
+- Satellite data
+- Geolocation data
+- Email receipt data
+- Working with alternative data
+- Scraping OpenTable data
+- Parsing data from HTML with Requests and BeautifulSoup
+- Introducing Selenium – using browser automation
+- Building a dataset of restaurant bookings and ratings
+- Taking automation one step further with Scrapy and Splash
+- Scraping and parsing earnings call transcripts

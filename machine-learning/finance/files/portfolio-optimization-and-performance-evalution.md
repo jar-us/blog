@@ -1,0 +1,33 @@
+# Portfolio Optimization And Performance Evaluation
+- How to measure portfolio performance
+- Capturing risk-return trade-offs in a single number
+- The Sharpe ratio
+- The information ratio
+- The fundamental law of active management
+- How to manage portfolio risk and return
+- The evolution of modern portfolio management
+- Mean-variance optimization
+- How it works
+- Finding the efficient frontier in Python
+- Challenges and shortcomings
+- Alternatives to mean-variance optimization
+- The 1/N portfolio
+- The minimum-variance portfolio
+- Global Portfolio Optimization – the Black-Litterman approach
+- How to size your bets – the Kelly criterion
+- Optimal investment – multiple assets
+- Risk parity
+- Risk factor investment
+- Hierarchical risk parity
+- Trading and managing portfolios with Zipline
+- Scheduling signal generation and trade execution
+- Implementing mean-variance portfolio optimization
+- Measuring backtest performance with pyfolio
+- Creating the returns and benchmark inputs
+- Getting pyfolio input from Alphalens
+- Getting pyfolio input from a Zipline backtest
+- Walk-forward testing – out-of-sample returns
+- Summary performance statistics
+- Drawdown periods and factor exposure
+- Modeling event risk
+- Summary

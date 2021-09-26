@@ -1,0 +1,37 @@
+# Boosting Your Trading Strategy
+- Getting started – adaptive boosting
+- The AdaBoost algorithm
+- Using AdaBoost to predict monthly price moves
+- Gradient boosting – ensembles for most tasks
+- How to train and tune GBM models
+- Ensemble size and early stopping
+- Shrinkage and learning rate
+- Subsampling and stochastic gradient boosting
+- How to use gradient boosting with sklearn
+- How to tune parameters with GridSearchCV
+- Parameter impact on test scores
+- How to test on the holdout set
+- Using XGBoost, LightGBM, and CatBoost
+- How algorithmic innovations boost performance
+- Second-order loss function approximation
+- Simplified split-finding algorithms
+- Depth-wise versus leaf-wise growth
+- GPU-based training
+- DART – dropout for additive regression trees
+- Treatment of categorical features
+- Additional features and optimizations
+- A long-short trading strategy with boosting
+- Generating signals with LightGBM and CatBoost
+- From Python to C++ – creating binary data formats
+- How to tune hyperparameters
+- How to evaluate the results
+- Inside the black box – interpreting GBM results
+- Feature importance
+- Partial dependence plots
+- SHapley Additive exPlanations
+- Backtesting a strategy based on a boosting ensemble
+- Lessons learned and next steps
+- Boosting for an intraday strategy
+- Engineering features for high-frequency data
+- Minute-frequency signals with LightGBM
+- Evaluating the trading signal quality

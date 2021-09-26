@@ -1,0 +1,46 @@
+# CNNs For Financial Time Series And Satellite Images
+- How CNNs learn to model grid-like data
+- From hand-coding to learning filters from data
+- How the elements of a convolutional layer operate
+- The convolution stage – extracting local features
+- The detector stage – adding nonlinearity
+- The pooling stage – downsampling the feature maps
+- The evolution of CNN architectures – key innovations
+- Performance breakthroughs and network size
+- Lessons learned
+- CNNs for satellite images and object detection
+- LeNet5 – The first CNN with industrial applications
+- "Hello World" for CNNs – handwritten digit classification
+- Defining the LeNet5 architecture
+- Training and evaluating the model
+- AlexNet – reigniting deep learning research
+- Preprocessing CIFAR-10 data using image augmentation
+- Defining the model architecture
+- Comparing AlexNet performance
+- Transfer learning – faster training with less data
+- Alternative approaches to transfer learning
+- Building on state-of-the-art architectures
+- Transfer learning with VGG16 in practice
+- Classifying satellite images with transfer learning
+- Object detection and segmentation
+- Object detection in practice
+- Preprocessing the source images
+- Transfer learning with a custom final layer
+- Creating a custom loss function and evaluation metrics
+- Fine-tuning the VGG16 weights and final layer
+- Lessons learned
+- CNNs for time-series data – predicting returns
+- An autoregressive CNN with 1D convolutions
+- Preprocessing the data
+- Defining the model architecture
+- Model training and performance evaluation
+- CNN-TA – clustering time series in 2D format
+- Creating technical indicators at different intervals
+- Computing rolling factor betas for different horizons
+- Features selecting based on mutual information
+- Hierarchical feature clustering
+- Creating and training a convolutional neural network
+- Assembling the best models to generate tradeable signals
+- Backtesting a long-short trading strategy
+- Summary and lessons learned
+- Summary

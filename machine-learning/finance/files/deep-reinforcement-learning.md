@@ -1,0 +1,56 @@
+# Deep Reinforcement Learning – Building A Trading Agent
+- Elements of a reinforcement learning system
+- The policy – translating states into actions
+- Rewards – learning from actions
+- The value function – optimal choice for the long run
+- With or without a model – look before you leap?
+- How to solve reinforcement learning problems
+- Key challenges in solving RL problems
+- Credit assignment
+- Exploration versus exploitation
+- Fundamental approaches to solving RL problems
+- Solving dynamic programming problems
+- Finite Markov decision problems
+- Sequences of states, actions, and rewards
+- Value functions – how to estimate the long-run reward
+- The Bellman equations
+- From a value function to an optimal policy
+- Policy iteration
+- Value iteration
+- Generalized policy iteration
+- Dynamic programming in Python
+- Setting up the gridworld
+- Computing the transition matrix
+- Implementing the value iteration algorithm
+- Defining and running policy iteration
+- Solving MDPs using pymdptoolbox
+- Lessons learned
+- Q-learning – finding an optimal policy on the go
+- Exploration versus exploitation – ε-greedy policy
+- The Q-learning algorithm
+- How to train a Q-learning agent using Python
+- Deep RL for trading with the OpenAI Gym
+- Value function approximation with neural networks
+- The Deep Q-learning algorithm and extensions
+- (Prioritized) Experience replay – focusing on past mistakes
+- The target network – decorrelating the learning process
+- Double deep Q-learning – decoupling action and prediction
+- Introducing the OpenAI Gym
+- How to implement DDQN using TensorFlow 2
+- Creating the DDQN agent
+- Adapting the DDQN architecture to the Lunar Lander
+- Memorizing transitions and replaying the experience
+- Setting up the OpenAI environment
+- Key hyperparameter choices
+- Lunar Lander learning performance
+- Creating a simple trading agent
+- How to design a custom OpenAI trading environment
+- Designing a DataSource class
+- The TradingSimulator class
+- The TradingEnvironment class
+- Registering and parameterizing the custom environment
+- Deep Q-learning on the stock market
+- Adapting and training the DDQN agent
+- Benchmarking DDQN agent performance
+- Lessons learned
+- Summary

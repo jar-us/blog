@@ -1,0 +1,36 @@
+# Word Embeddings For Earnings Calls And SEC Filings
+- How word embeddings encode semantics
+- How neural language models learn usage in context
+- word2vec – scalable word and phrase embeddings
+- Model objective – simplifying the softmax
+- Automating phrase detection
+- Evaluating embeddings using semantic arithmetic
+- How to use pretrained word vectors
+- GloVe – Global vectors for word representation
+- Custom embeddings for financial news
+- Preprocessing – sentence detection and n-grams
+- The skip-gram architecture in TensorFlow 2
+- Noise-contrastive estimation – creating validation samples
+- Generating target-context word pairs
+- Creating the word2vec model layers
+- Visualizing embeddings using TensorBoard
+- How to train embeddings faster with Gensim
+- word2vec for trading with SEC filings
+- Preprocessing – sentence detection and n-grams
+- Automatic phrase detection
+- Labeling filings with returns to predict earnings surprises
+- Model training
+- Model evaluation
+- Performance impact of parameter settings
+- Sentiment analysis using doc2vec embeddings
+- Creating doc2vec input from Yelp sentiment data
+- Training a doc2vec model
+- Training a classifier with document vectors
+- Lessons learned and next steps
+- New frontiers – pretrained transformer models
+- Attention is all you need
+- BERT – towards a more universal language model
+- Key innovations – deeper attention and pretraining
+- Using pretrained state-of-the-art models
+- Trading on text data – lessons learned and next steps
+- Summary

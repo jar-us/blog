@@ -1,0 +1,44 @@
+# Financial Feature Engineering – How To Research Alpha Factors
+- Alpha factors in practice – from data to signals
+- Building on decades of factor research
+- Momentum and sentiment – the trend is your friend
+- Why might momentum and sentiment drive excess returns?
+- How to measure momentum and sentiment
+- Value factors – hunting fundamental bargains
+- Relative value strategies
+- Why do value factors help predict returns?
+- How to capture value effects
+- Volatility and size anomalies
+- Why do volatility and size predict returns?
+- How to measure volatility and size
+- Quality factors for quantitative investing
+- Why quality matters
+- How to measure asset quality
+- Engineering alpha factors that predict returns
+- How to engineer factors using pandas and NumPy
+- Loading, slicing, and reshaping the data
+- Resampling – from daily to monthly frequency
+- How to compute returns for multiple historical periods
+- Using lagged returns and different holding periods
+- Computing factor betas
+- How to add momentum factors
+- Adding time indicators to capture seasonal effects
+- How to create lagged return features
+- How to create forward returns
+- How to use TA-Lib to create technical alpha factors
+- Denoising alpha factors with the Kalman filter
+- How does the Kalman filter work?
+- How to apply a Kalman filter using pykalman
+- How to preprocess your noisy signals using wavelets
+- From signals to trades – Zipline for backtests
+- How to backtest a single-factor strategy
+- A single alpha factor from market data
+- Built-in Quantopian factors
+- Combining factors from diverse data sources
+- Separating signal from noise with Alphalens
+- Creating forward returns and factor quantiles
+- Predictive performance by factor quantiles
+- The information coefficient
+- Factor turnover
+- Alpha factor resources
+- Alternative algorithmic trading libraries

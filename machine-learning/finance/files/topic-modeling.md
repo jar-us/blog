@@ -1,0 +1,24 @@
+# Topic Modeling – Summarizing Financial News
+- Learning latent topics – Goals and approaches
+- How to implement LSI using sklearn
+- Strengths and limitations
+- Probabilistic latent semantic analysis
+- How to implement pLSA using sklearn
+- Strengths and limitations
+- Latent Dirichlet allocation
+- How LDA works
+- The Dirichlet distribution
+- The generative model
+- Reverse engineering the process
+- How to evaluate LDA topics
+- Perplexity
+- Topic coherence
+- How to implement LDA using sklearn
+- How to visualize LDA results using pyLDAvis
+- How to implement LDA using Gensim
+- Modeling topics discussed in earnings calls
+- Data preprocessing
+- Model training and evaluation
+- Running experiments
+- Topic modeling for with financial news
+- Summary

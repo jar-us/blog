@@ -1,0 +1,49 @@
+# Time-Series Models For Volatility Forecasts And Statistical Arbitrage
+- Tools for diagnostics and feature extraction
+- How to decompose time-series patterns
+- Rolling window statistics and moving averages
+- How to measure autocorrelation
+- How to diagnose and achieve stationarity
+- Transforming a time series to achieve stationarity
+- Handling instead of how to handle
+- On unit roots and random walks
+- How to diagnose a unit root
+- How to remove unit roots and work with the resulting series
+- Time-series transformations in practice
+- Univariate time-series models
+- How to build autoregressive models
+- How to identify the number of lags
+- How to diagnose model fit
+- How to build moving-average models
+- How to identify the number of lags
+- The relationship between the AR and MA models
+- How to build ARIMA models and extensions
+- How to model differenced series
+- How to identify the number of AR and MA terms
+- Adding features – ARMAX
+- Adding seasonal differencing – SARIMAX
+- How to forecast macro fundamentals
+- How to use time-series models to forecast volatility
+- The ARCH model
+- Generalizing ARCH – the GARCH model
+- How to build a model that forecasts volatility
+- Multivariate time-series models
+- Systems of equations
+- The vector autoregressive (VAR) model
+- Using the VAR model for macro forecasts
+- Cointegration – time series with a shared trend
+- The Engle-Granger two-step method
+- The Johansen likelihood-ratio test
+- Statistical arbitrage with cointegration
+- How to select and trade comoving asset pairs
+- Pairs trading in practice
+- Distance-based heuristics to find cointegrated pairs
+- How well do the heuristics predict significant cointegration?
+- Preparing the strategy backtest
+- Precomputing the cointegration tests
+- Getting entry and exit trades
+- Backtesting the strategy using backtrader
+- Tracking pairs with a custom DataClass
+- Running and evaluating the strategy
+- Extensions – how to do better
+- Summary

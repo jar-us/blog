@@ -1,0 +1,52 @@
+# The ML4T Workflow – From Model To Strategy Backtesting
+- How to backtest an ML-driven strategy
+- Backtesting pitfalls and how to avoid them
+- Getting the data right
+- Look-ahead bias – use only point-in-time data
+- Survivorship bias – track your historical universe
+- Outlier control – do not exclude realistic extremes
+- Sample period – try to represent relevant future scenarios
+- Getting the simulation right
+- Mark-to-market performance – track risks over time
+- Transaction costs – assume a realistic trading environment
+- Timing of decisions – properly sequence signals and trades
+- Getting the statistics right
+- The minimum backtest length and the deflated SR
+- Optimal stopping for backtests
+- How a backtesting engine works
+- Vectorized versus event-driven backtesting
+- Key implementation aspects
+- Data ingestion – format, frequency, and timing
+- Factor engineering – built-in factors versus libraries
+- ML models, predictions, and signals
+- Trading rules and execution
+- Performance evaluation
+- backtrader – a flexible tool for local backtests
+- Key concepts of backtrader's Cerebro architecture
+- Data feeds, lines, and indicators
+- From data and signals to trades – strategy
+- Commissions instead of commission schemes
+- Making it all happen – Cerebro
+- How to use backtrader in practice
+- How to load price and other data
+- How to formulate the trading logic
+- How to configure the Cerebro instance
+- backtrader summary and next steps
+- Zipline – scalable backtesting by Quantopian
+- Calendars and the Pipeline for robust simulations
+- Bundles – point-in-time data with on-the-fly adjustments
+- The Algorithm API – backtests on a schedule
+- Known issues
+- Ingesting your own bundles with minute data
+- Getting your data ready to be bundled
+- Writing your custom bundle ingest function
+- Registering your bundle
+- Creating and registering a custom TradingCalendar
+- The Pipeline API – backtesting an ML signal
+- Enabling the DataFrameLoader for our Pipeline
+- Creating a pipeline with a custom ML factor
+- How to train a model during the backtest
+- Preparing the features – how to define pipeline factors
+- How to design a custom ML factor
+- Tracking model performance during a backtest
+- Instead of how to use

@@ -1,0 +1,60 @@
+# Linear Models – From Risk Factors To Return Forecasts
+- From inference to prediction
+- The baseline model – multiple linear regression
+- How to formulate the model
+- How to train the model
+- Ordinary least squares – how to fit a hyperplane to the data
+- Maximum likelihood estimation
+- Gradient descent
+- The Gauss–Markov theorem
+- How to conduct statistical inference
+- How to diagnose and remedy problems
+- Goodness of fit
+- Heteroskedasticity
+- Serial correlation
+- Multicollinearity
+- How to run linear regression in practice
+- OLS with statsmodels
+- Stochastic gradient descent with sklearn
+- How to build a linear factor model
+- From the CAPM to the Fama–French factor models
+- Obtaining the risk factors
+- Fama–Macbeth regression
+- Regularizing linear regression using shrinkage
+- How to hedge against overfitting
+- How ridge regression works
+- How lasso regression works
+- How to predict returns with linear regression
+- Preparing model features and forward returns
+- Creating the investment universe
+- Selecting and computing alpha factors using TA-Lib
+- Adding lagged returns
+- Generating target forward returns
+- Dummy encoding of categorical variables
+- Linear OLS regression using statsmodels
+- Selecting the relevant universe
+- Estimating the vanilla OLS regression
+- Diagnostic statistics
+- Linear regression using scikit-learn
+- Selecting features and targets
+- Cross-validating the model
+- Evaluating the results – information coefficient and RMSE
+- Ridge regression using scikit-learn
+- Tuning the regularization parameters using cross-validation
+- Cross-validation results and ridge coefficient paths
+- Top 10 coefficients
+- Lasso regression using sklearn
+- Cross-validating the lasso model
+- Evaluating the results – IC and lasso path
+- Comparing the quality of the predictive signals
+- Linear classification
+- The logistic regression model
+- The objective function
+- The logistic function
+- Maximum likelihood estimation
+- How to conduct inference with statsmodels
+- Predicting price movements with logistic regression
+- How to convert a regression into a classification problem
+- Cross-validating the logistic regression hyperparameters
+- Evaluating the results using AUC and IC
+- Summary

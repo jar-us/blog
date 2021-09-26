@@ -1,0 +1,41 @@
+# Appendix: Alpha Factor Library
+- Common alpha factors implemented in TA-Lib
+- A key building block – moving averages
+- Simple moving average
+- Exponential moving average
+- Weighted moving average
+- Double exponential moving average
+- Triple exponential moving average
+- Triangular moving average
+- Kaufman adaptive moving average
+- MESA adaptive moving average
+- Visual comparison of moving averages
+- Overlap studies – price and volatility trends
+- Bollinger Bands
+- Parabolic SAR
+- Momentum indicators
+- Average directional movement indicators
+- Aroon Oscillator
+- Balance of power
+- Commodity channel index
+- Moving average convergence divergence
+- Stochastic relative strength index
+- Stochastic oscillator
+- Ultimate oscillator
+- Volume and liquidity indicators
+- Chaikin accumulation/distribution line and oscillator
+- On-balance volume
+- Volatility indicators
+- Average true range
+- Normalized average true range
+- Fundamental risk factors
+- WorldQuant's quest for formulaic alphas
+- Cross-sectional and time-series functions
+- Formulaic alpha expressions
+- Alpha 001
+- Alpha 054
+- Bivariate and multivariate factor evaluation
+- Information coefficient and mutual information
+- Feature importance and SHAP values
+- Comparison – the top 25 features for each metric
+- Financial performance – Alphalens
