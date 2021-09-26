@@ -1,8 +1,8 @@
 # Machine Learning In Finance
 - [Machine Learning For Trading – From Idea To Execution](./files/machine-learning-for-trading.md)
 - [Market And Fundamental Data – Sources And Techniques](./files/market-and-fundamental-data.md)
-- [Alternative Data For Finance – Categories And Use Cases](.files/alternative-data-for-finance.md)
-- [Financial Feature Engineering – How To Research Alpha Factors](.files/financial-feature-engineering.md)
+- [Alternative Data For Finance – Categories And Use Cases](./files/alternative-data-for-finance.md)
+- [Financial Feature Engineering – How To Research Alpha Factors](./files/financial-feature-engineering.md)
 - [Portfolio Optimization And Performance Evaluation](./files/portfolio-optimization-and-performance-evalution.md)
 - [The Machine Learning Process](./files/the-machine-learning-process.md)
 - [Linear Models – From Risk Factors To Return Forecasts](./files/linear-models.md)
